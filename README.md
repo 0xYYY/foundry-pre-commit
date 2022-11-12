@@ -1,6 +1,6 @@
 # 🛠️ Foundry Pre-Commit Hook 🪝
 
-Runs [Foundry](https://github.com/foundry-rs/foundry) `forge fmt` and/or `forge snahshot` before
+Run [Foundry](https://github.com/foundry-rs/foundry) `forge fmt` and/or `forge snahshot` before
 commit.
 
 ## Usage
