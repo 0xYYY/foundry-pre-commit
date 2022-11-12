@@ -12,6 +12,7 @@ commit.
 ```yaml
 repos:
     - repo: https://github.com/0xYYY/foundry-pre-commit
+      rev: v1.0.0
       hooks:
           - id: format
           - id: snapshot
