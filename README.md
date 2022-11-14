@@ -18,12 +18,12 @@ repos:
           - id: snapshot
 ```
 
-4. Run `pre-commit install` to setup the hooks.
+4. Run `pre-commit install` to set up the hooks.
 5. 🎉 From now on, before each commit, `forge fmt` and `forge snapshot` will be ran automatically.
 
 ## Credits
 
-Inspired by this [tweet](https://twitter.com/devanoneth/status/1590922732988157952)
+Inspired by [this tweet](https://twitter.com/devanoneth/status/1590922732988157952)
 from [devanoneth](https://github.com/devanoneth).
 
 ## License
