@@ -21,6 +21,11 @@ repos:
 4. Run `pre-commit install` to setup the hooks.
 5. 🎉 From now on, before each commit, `forge fmt` and `forge snapshot` will be ran automatically.
 
+## Credits
+
+Inspired by this [tweet](https://twitter.com/devanoneth/status/1590922732988157952)
+from [devanoneth](https://github.com/devanoneth).
+
 ## License
 
 Dual licensed under either [MIT License](./LICENSE-MIT) or [Apache License, Version 2.0](./LICENSE-APACHE).
